@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanvanni)](https://github.com/renanvanni)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-gonçalves-vanni-268b08168//)](https://www.linkedin.com/in/renan-gonçalves-vanni-268b08168//)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-gonçalves-vanni-268b08168//)](https://www.linkedin.com/in/renan-gonçalves-vanni-268b08168//)
 
 ![Renan's Git Hub Status](https://github-readme-stats.vercel.app/api?username=renanvanni&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=blak-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=black-blue)
