@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 
 ![Renan's Git Hub Status](https://github-readme-stats.vercel.app/api?username=renanvanni&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=highcontrast)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renanvanni)
 
 ![Profile views](https://gpvc.arturio.dev/renanvanni)
