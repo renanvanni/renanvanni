@@ -1,9 +1,7 @@
 ### Olá 👋, meu nome é Renan
 
 - 🌱 Atualmente estou aprendendo na Generation 
-- 📫 Como entrar em contato comigo: renanvanni13@gmail.com 
-
-Skills: MySQL / DOCKER / JS / HTML / CSS
+- 📫 Como entrar em contato comigo: renanvanni13@gmail.com
 <!--
 **renanvanni/renanvanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +21,6 @@ Here are some ideas to get you started:
 
 ![Renan's Git Hub Status](https://github-readme-stats.vercel.app/api?username=renanvanni&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=highcontrast)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=renanvanni)
 
 ![Profile views](https://gpvc.arturio.dev/renanvanni)
