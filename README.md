@@ -1,6 +1,6 @@
-### Olá 👋, meu nome é Renan
-
-- 🌱 Atualmente estou aprendendo na Generation 
+### Olá 👋,
+- :briefcase: erjndf
+- 🌱 Atualmente estou aprendendo no BootCamp da Generation 
 - 📫 Como entrar em contato comigo: renanvanni13@gmail.com
 <!--
 **renanvanni/renanvanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
