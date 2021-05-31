@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-gonçalves-vanni-268b08168//)](https://www.linkedin.com/in/renan-gonçalves-vanni-268b08168//)
 
 ![Renan's Git Hub Status](https://github-readme-stats.vercel.app/api?username=renanvanni&show_icons=true&theme=darkblack)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=red-green)
