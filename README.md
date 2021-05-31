@@ -1,7 +1,7 @@
 ### Olá 👋, meu nome é Renan
 
-- 🌱 I’m currently learning on Generation 
-- 📫 How to reach me: renanvanni13@gmail.com 
+- 🌱 Atualmente estou aprendendo na Generation 
+- 📫 Como entrar em contato comigo: renanvanni13@gmail.com 
 
 Skills: MySQL / DOCKER / JS / HTML / CSS
 <!--
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ![Renan's Git Hub Status](https://github-readme-stats.vercel.app/api?username=renanvanni&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvanni&theme=highcontrast)
+![Profile views](https://gpvc.arturio.dev/renanvanni&theme=blue)
