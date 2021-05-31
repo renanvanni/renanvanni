@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-godinho-562246137)](https://www.linkedin.com/in/bruno-godinho-562246137)
 
-[Renan's Git Hub Status](https://github.com/renanvanni)
+[Renan's Git Hub Status](https://github-readme-stats.vercel.app/api?username=renanvanni&show_icons=true&theme=tokyonight)
