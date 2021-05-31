@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá 👋, meu nome é Renan
 
+- 🌱 I’m currently learning on Generation 
+- 📫 How to reach me: renanvanni13@gmail.com 
+
+Skills: MySQL / DOCKER / JS / HTML / CSS
 <!--
 **renanvanni/renanvanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
