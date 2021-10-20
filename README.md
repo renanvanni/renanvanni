@@ -2,7 +2,7 @@
 
 ### Hello World 👋,
 - :briefcase: Engenheiro Mecatrônico | Desenvolvedor Full-Stack Jr.
-- 🌱 Atualmente estou aprendendo no BootCamp da Generation 
+- 🌱 Atualmente estou aprendendo com Curso em Vídeo e Udemy
 - :round_pushpin: São Paulo - Brasil
 - 📫 Como entrar em contato comigo: renanvanni13@gmail.com
 <!--
